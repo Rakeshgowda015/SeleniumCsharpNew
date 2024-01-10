@@ -1,0 +1,7 @@
+{
+  "MyedenPatient": {
+    "Emailid": "rakesh@myeden.com",
+    "Password": "255417899",
+    "BaseUrl": "https://myeden-uat.dynamicweb.com.au/sign-in"
+  }
+}
